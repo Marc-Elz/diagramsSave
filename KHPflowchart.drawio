@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="n7FBKacEKIxXiVAmHtVA">
-    <mxGraphModel dx="2458" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1392" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zY7RNsqznwpmfASJRKpX-65" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=13.3;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ff80df;strokeWidth=1.5;lucidId=rFd7Cz1MsACA;" value="id, title, description, priority, categories, submitter_id, created_at, updated_at" vertex="1">
-          <mxGeometry height="136" width="128" x="1547" y="754" as="geometry" />
+          <mxGeometry height="136" width="128" x="1390" y="720" as="geometry" />
         </mxCell>
         <mxCell id="zY7RNsqznwpmfASJRKpX-66" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rhombus;fontSize=15.5;spacing=3.8;strokeColor=#1071e5;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=YId7v41~7VT0;" value="Have account" vertex="1">
           <mxGeometry height="90" width="120" x="445" y="1100" as="geometry" />
@@ -206,6 +206,9 @@
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zY7RNsqznwpmfASJRKpX-85" parent="1" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=13.3;spacing=9;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ff80df;strokeWidth=1.5;lucidId=rFd7Cz1MsACA;" value="id, title, description, priority, categories, submitter_id, , updated_at" vertex="1">
+          <mxGeometry height="136" width="128" x="1420" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
